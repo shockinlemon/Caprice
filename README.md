@@ -15,10 +15,10 @@ This mini-project was to build a regression model to predict the price of used c
 ### Evaluate the Model
 - Predicted car prices on the test set.
 - Evaluated the model's performance using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
-- 
+  
 ###  Cross-Validation with K-Fold
 - Implemented 5-Fold Cross-Validation to get a more robust estimate of the model's performance, providing average MAE and RMSE scores across different folds.
-- 
+  
 ##  Key Findings
 - Feature engineering (e.g., `age`, `km_per_year`) improved the interpretability and predictive power of the model.
 - The model achieved a certain MAE and RMSE, and cross-validation provided a more generalized performance estimate.
