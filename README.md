@@ -1,6 +1,6 @@
 # Used Caprice Price Prediction
 
-This mini-project was to build a regression model to predict the price of used cars based on various features such as year, kilometers, and condition.
+This is a mini-project created to build a regression model to predict the price of used cars based on various features such as year, kilometers, and condition.
 
 # Techniques utilized in this project:
 
