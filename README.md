@@ -30,3 +30,5 @@ This mini-project was to build a regression model to predict the price of used c
 - Matplotlib
 - Scikit-learn
 - Kagglehub
+
+- https://www.kaggle.com/datasets/shockinlemon/caprice-dataset
